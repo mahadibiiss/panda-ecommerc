@@ -1,0 +1,18 @@
+small{
+    color: blue;
+    text-align: center;
+}
+.blog{
+    background-color: cornflowerblue;
+    border: 5px solid lightgreen;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 50px;
+    
+}
+.align{
+    text-align: center;
+}
+.ali{
+    text-align: center;
+}
